@@ -87,7 +87,7 @@ namespace Propishare
         public int idRoles { get; set; }
 
 
-        //Editado
+        //Editadosss
 
     }
 
