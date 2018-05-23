@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo3">
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_marginLeft="32dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="100dp"
+        android:orientation="vertical"
+        android:background="#FAFAFA">
+        <EditText
+            android:hint="Usuario"
+            android:layout_width="200dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="40dp"
+            android:layout_height="50dp"
+            android:id="@+id/txtUsuario"
+            android:textColor="@android:color/background_dark"
+            android:shadowColor="#f5f5dcff" />
+        <EditText
+            android:hint="Contraseña"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="20dp"
+            android:inputType="textPassword"
+            android:id="@+id/txtContraseña"
+            android:password="true"
+            android:textColor="@android:color/background_dark" />
+        <Button
+            android:text="Login"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnLogin"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/Botones"
+            android:shadowColor="#f0ffffff"
+            style="@android:style/MediaButton" />
+        <Button
+            android:text="+"
+            android:layout_width="50dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="240dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnRegistrar"
+            android:background="@drawable/boton_2" />
+    </LinearLayout>
+</LinearLayout>
