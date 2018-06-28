@@ -1,0 +1,2 @@
+android.app.Application
+App.Login_SQLite.App.Login_SQLite

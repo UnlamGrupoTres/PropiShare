@@ -1,6 +1,6 @@
 using Android.Media;
 using SQLite;
-
+using System;
 
 namespace Propishare
 {
@@ -51,7 +51,7 @@ namespace Propishare
         [MaxLength(15)]
         public string emailComercio { get; set; }
 
-       // public Image fotoComercio { get; set; }
+        // public Image fotoComercio { get; set; }
 
     }
 
@@ -59,35 +59,47 @@ namespace Propishare
 
     public class Mozos
     {
-        
+
 
         [PrimaryKey, AutoIncrement]
-        public int id { get; set; }
+        public int Id { get; set; }
 
         [MaxLength(25)]
-        public string nombre { get; set; }
+        public string Nombre { get; set; }
 
         [MaxLength(25)]
-        public string apellido { get; set; }
+        public string Apellido { get; set; }
 
         [MaxLength(25)]
-        public string direccion { get; set; }
+        public string Direccion { get; set; }
 
         [MaxLength(15)]
         public string Contraseña { get; set; }
 
         [MaxLength(15)]
-        public string email { get; set; }
+        public string Email { get; set; }
 
         [MaxLength(12)]
-        public int telefono { get; set; }
+        public int Telefono { get; set; }
 
 
         [MaxLength(25)]
-        public int idRoles { get; set; }
+        public int IdRoles { get; set; }
+
 
 
 
     }
 
+    public class Propinas
+    {
+        [PrimaryKey, AutoIncrement]
+        public int IdPropina { get; set; }
+        public DateTime fecha { get; set; }
+        public float monto { get; set; }
+        public int idCliente { get; set; }
+        public int idEmpleado { get; set; }
+
+
+    }
 }
