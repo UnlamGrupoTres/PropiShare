@@ -1,2 +1,6 @@
 android.app.Application
+<<<<<<< HEAD
 App.Login_SQLite.App.Login_SQLite
+=======
+App.Login_SQLite.App.Login_SQLite
+>>>>>>> origin/master

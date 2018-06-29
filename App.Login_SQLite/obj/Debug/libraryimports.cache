@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <ManifestDocuments />
   <NativeLibraries />
   <Jars />
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars />
+>>>>>>> origin/master
 </Paths>

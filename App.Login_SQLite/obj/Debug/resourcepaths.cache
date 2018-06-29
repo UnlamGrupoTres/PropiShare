@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <AdditionalAndroidResourcePaths />
   <AdditionalJavaLibraryReferences />
   <AdditionalNativeLibraryReferences />
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths />
+  <AdditionalJavaLibraryReferences />
+  <AdditionalNativeLibraryReferences />
+>>>>>>> origin/master
 </Paths>

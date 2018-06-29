@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Propishare.MozoGestion, Propishare;md5ce253ebd095f166b7aafeb47885bfe5f.MozoGestion
 Propishare.MozoGestion;md5ce253ebd095f166b7aafeb47885bfe5f.MozoGestion
 propishare.MozoGestion;md5ce253ebd095f166b7aafeb47885bfe5f.MozoGestion
@@ -7,3 +8,33 @@ propishare.MozosLogin;md5ce253ebd095f166b7aafeb47885bfe5f.MozosLogin
 Propishare.VerPropinas, Propishare;md5ce253ebd095f166b7aafeb47885bfe5f.VerPropinas
 Propishare.VerPropinas;md5ce253ebd095f166b7aafeb47885bfe5f.VerPropinas
 propishare.VerPropinas;md5ce253ebd095f166b7aafeb47885bfe5f.VerPropinas
+=======
+Propishare.ComercioGestion, Propishare;md5c7d33dd27a31c9b233852f0612fed0d9.ComercioGestion
+Propishare.ComercioGestion, Propishare, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c7d33dd27a31c9b233852f0612fed0d9.ComercioGestion
+Propishare.ComercioGestion;md5c7d33dd27a31c9b233852f0612fed0d9.ComercioGestion
+propishare.ComercioGestion;md5c7d33dd27a31c9b233852f0612fed0d9.ComercioGestion
+Propishare.ComercioLogin, Propishare;md5c7d33dd27a31c9b233852f0612fed0d9.ComercioLogin
+Propishare.ComercioLogin, Propishare, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c7d33dd27a31c9b233852f0612fed0d9.ComercioLogin
+Propishare.ComercioLogin;md5c7d33dd27a31c9b233852f0612fed0d9.ComercioLogin
+propishare.ComercioLogin;md5c7d33dd27a31c9b233852f0612fed0d9.ComercioLogin
+Propishare.MozosLogin, Propishare;md5c7d33dd27a31c9b233852f0612fed0d9.MozosLogin
+Propishare.MozosLogin, Propishare, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c7d33dd27a31c9b233852f0612fed0d9.MozosLogin
+Propishare.MozosLogin;md5c7d33dd27a31c9b233852f0612fed0d9.MozosLogin
+propishare.MozosLogin;md5c7d33dd27a31c9b233852f0612fed0d9.MozosLogin
+Propishare.UsuarioPrincipal, Propishare;md5c7d33dd27a31c9b233852f0612fed0d9.UsuarioPrincipal
+Propishare.UsuarioPrincipal, Propishare, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c7d33dd27a31c9b233852f0612fed0d9.UsuarioPrincipal
+Propishare.UsuarioPrincipal;md5c7d33dd27a31c9b233852f0612fed0d9.UsuarioPrincipal
+propishare.UsuarioPrincipal;md5c7d33dd27a31c9b233852f0612fed0d9.UsuarioPrincipal
+Propishare.UsuarioLogin, Propishare;md5c7d33dd27a31c9b233852f0612fed0d9.UsuarioLogin
+Propishare.UsuarioLogin, Propishare, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c7d33dd27a31c9b233852f0612fed0d9.UsuarioLogin
+Propishare.UsuarioLogin;md5c7d33dd27a31c9b233852f0612fed0d9.UsuarioLogin
+propishare.UsuarioLogin;md5c7d33dd27a31c9b233852f0612fed0d9.UsuarioLogin
+Propishare.UsuarioRegistro, Propishare;md5c7d33dd27a31c9b233852f0612fed0d9.UsuarioRegistro
+Propishare.UsuarioRegistro, Propishare, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c7d33dd27a31c9b233852f0612fed0d9.UsuarioRegistro
+Propishare.UsuarioRegistro;md5c7d33dd27a31c9b233852f0612fed0d9.UsuarioRegistro
+propishare.UsuarioRegistro;md5c7d33dd27a31c9b233852f0612fed0d9.UsuarioRegistro
+Propishare.Resources.layout.pantallaInicial, Propishare;md52288b9dfb5e193f9ef9d5c2c6f7b7047.pantallaInicial
+Propishare.Resources.layout.pantallaInicial, Propishare, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52288b9dfb5e193f9ef9d5c2c6f7b7047.pantallaInicial
+Propishare.Resources.layout.pantallaInicial;md52288b9dfb5e193f9ef9d5c2c6f7b7047.pantallaInicial
+propishare.resources.layout.pantallaInicial;md52288b9dfb5e193f9ef9d5c2c6f7b7047.pantallaInicial
+>>>>>>> origin/master
